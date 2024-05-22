@@ -1,0 +1,14 @@
+<a href="your_signup_page.html" class="facebook-signup-button">Join Now</a>.facebook-signup-button {
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 4px;
+  background-color: #4267B2;
+  color: #fff;
+  font-size: 16px;
+  text-decoration: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.facebook-signup-button:hover {
+  background-color: #355099;
+}
